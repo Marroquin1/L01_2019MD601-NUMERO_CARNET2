@@ -1,0 +1,6 @@
+@L01_2019MD601_NUMERO_CARNET2_HostAddress = http://localhost:5136
+
+GET {{L01_2019MD601_NUMERO_CARNET2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
